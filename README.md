@@ -1,7 +1,7 @@
 # ML Assignment 2 – Bank Marketing Classification
 
 ## Live Streamlit App
-(To be updated after deployment)
+[(Streamlit App)](https://swsi3kjrlfmmxvvwvu3d3q.streamlit.app/)
 
 ---
 
@@ -117,3 +117,4 @@ streamlit run app.py
 
 
 ---
+
