@@ -92,9 +92,10 @@ Among all implemented models, **XGBoost** achieved the best overall performance 
 ---
 
 ## Repository Structure
-
+```
 ml-assignment-2-bank-marketing/
 │-- app.py
+|--bank-additional-full.csv (test dataset)
 │-- scaler.pkl
 │-- logistic_regression.pkl
 │-- decision_tree.pkl
@@ -105,8 +106,8 @@ ml-assignment-2-bank-marketing/
 │-- requirements.txt
 │-- README.md
 │-- model/
-│-- ML_Assignment_2_Bank_Marketing.ipynb
-
+  │-- ML_Assignment_2_Bank_Marketing.ipynb
+```
 
 ---
 
@@ -117,4 +118,5 @@ streamlit run app.py
 
 
 ---
+
 
